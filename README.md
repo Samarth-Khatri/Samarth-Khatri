@@ -49,10 +49,17 @@
 <a href="https://twitter.com/Samarth7861"><img src="https://img.shields.io/badge/-Samarth7861-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<h2><img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="22" height="22"> Watch this 🐍 eating up my contributions..</h2>
+<h2>Watch this 🐍 eating up my contributions..</h2>
 
 <p align="center"><img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/output/github-contribution-grid-snake.svg" /></p>
 
+
+<img align="right" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200" height="200">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EA35&lines=Hahahaha;Hahahaha;Hahahaha)](https://git.io/typing-svg)
+<img src="https://readme-jokes.vercel.app/api">
+  
+  
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
