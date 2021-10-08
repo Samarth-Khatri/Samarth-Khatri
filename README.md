@@ -54,9 +54,8 @@
 <p align="center"><img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/output/github-contribution-grid-snake.svg" /></p>
 
 
-<img align="right" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200" height="200">
+<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200" height="200">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EA35&lines=Hahahaha;Hahahaha;Hahahaha)](https://git.io/typing-svg)
 <img src="https://readme-jokes.vercel.app/api">
   
   
