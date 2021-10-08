@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/main/Hi.gif" width="30px">, I am Samarth Khatri </h1>
 
 <div align=center>
-<h4><b>Currently pursuing engineering in Electronics and Communication from Maharaja Agrasen Institute of Technology. Always learning new things and currently having intermediate knowledge in languages like C++ and Java <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. I also have a good understanding of Data Structures and Algorithms which I have practiced in C++.</b></h4>
+<h4><b>Currently pursuing engineering in Electronics and Communication from Maharaja Agrasen Institute of Technology. Always learning new things and currently having intermediate knowledge in languages like C++ and Java <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. I also have a good understanding of Data Structures and Algorithms which I have practiced in C++ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.</b></h4>
 <b><h4>Currently I am learning Web Development and have learnt Html, CSS, Bootstrap, JavaScript and continuing with backend now.. <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/></b></h4>
 </div>
 
@@ -19,6 +19,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
   
 ### 🛠 &nbsp;Tech Stack
+  
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
