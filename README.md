@@ -40,10 +40,9 @@
 <a href="mailto:samarth.kahtri0000@gmail.com"><img src="https://img.shields.io/badge/-samarth.kahtri0000@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/khatri.samarth/"><img src="https://img.shields.io/badge/-khatri.samarth-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/Samarth7861"><img src="https://img.shields.io/badge/-Samarth7861-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://github.com/Samarth-Khatri"><img src="https://img.shields.io/badge/Samarth-Khatri-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<h2>Watch this 🐍 eating up my contributions..</h2>
+<h2><img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="22" height="22"> Watch this 🐍 eating up my contributions..</h2>
 
 <p align="center"><img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/output/github-contribution-grid-snake.svg" /></p>
 
