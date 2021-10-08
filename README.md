@@ -3,8 +3,9 @@
 
 <div align=center>
 <h4><b>Currently pursuing engineering in Electronics and Communication from Maharaja Agrasen Institute of Technology. Always learning new things and currently having intermediate knowledge in languages like C++ and Java <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. I also have a good understanding of Data Structures and Algorithms which I have practiced in C++ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.</b></h4>
-<b><h4>Currently I am learning MERN Stack Development <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/></b></h4>
-</div>
+</br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=25&center=true&width=500&height=40&lines=Currently+learning+MERN+Stack;Doing+Video+Editing+as+a+hobby;Interested+in+Blockchain+Dev+)](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
