@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
   
-### :link: &nbsp;Connect with me
+### :link: &nbsp;Connect with me <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/samarthkhatri/"><img src="https://img.shields.io/badge/-Samarth%20Khatri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
