@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/main/header.png"></p>
+
 <h1 align="center">Hi <img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/main/Hi.gif" width="30px">, I am <a href="https://samarth-khatri.github.io/Portfolio/">Samarth Khatri</a> </h1>
 
 <div align=center>
