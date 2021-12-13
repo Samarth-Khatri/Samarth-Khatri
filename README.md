@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/main/Hi.gif" width="30px">, I am <a href="https://samarth-khatri.github.io/Portfolio-V2/">Samarth Khatri</a> </h1>
+<h1 align="center">Hi <img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/main/Hi.gif" width="30px">, I am <a href="https://samarth-khatri.github.io/Portfolio-V2/">Samarth Khatri <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" width="24px"> </a> </h1> 
 
 <div align=center>
 <h4><b>Currently pursuing engineering in Electronics and Communication from Maharaja Agrasen Institute of Technology. Always learning new things and currently having intermediate knowledge in languages like C++ and Java <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. I also have a good understanding of Data Structures and Algorithms which I have practiced in C++ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.</b></h4>
@@ -19,7 +19,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
   
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/>
   
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
   
-### :link: &nbsp;Connect with me  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/>
+### :link: &nbsp;Connect with me <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" height="33px" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/samarthkhatri/"><img src="https://img.shields.io/badge/-Samarth%20Khatri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
