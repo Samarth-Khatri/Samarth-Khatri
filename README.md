@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/main/Hi.gif" width="30px">, I am <a href="https://samarth-khatri.github.io/Portfolio-V2/">Samarth Khatri</h1> 
 
 <div align=center>
-<h4><b>Currently pursuing engineering in Electronics and Communication from Maharaja Agrasen Institute of Technology. Always learning new things and currently having intermediate knowledge in languages like C++ and Java <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. I also have a good understanding of Data Structures and Algorithms which I have practiced in C++ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.</b></h4>
+<h4><b>Currently pursuing engineering in Electronics and Communication from Maharaja Agrasen Institute of Technology. Always learning new things and currently having intermediate knowledge in languages like C++ and Java <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></b></h4>
 </br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=25&center=true&width=500&height=40&lines=Currently+learning+MERN+Stack;Doing+Video+Editing+as+a+hobby;Interested+in+Blockchain+Dev+)](https://git.io/typing-svg)
