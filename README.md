@@ -9,10 +9,10 @@
 
 <p align="center">
         <!-- Aout  -->
-        <samp>
+        <samp><b>
                 「 Web Development Enthusiast and a Neophyte in Machine Learning 」
                 <br>
-                「 I am a MERN stack developer and a passionate video editor from <b>India</b> 」
+                「 I am a MERN stack developer and a passionate video editor from India 」</b>
                 <br>
                 <br>
         </samp>
