@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://samarthkhatri.me/">Samarth Khatri</a></b>
+        <samp>&gt; Hey There! </a><img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/main/Hi.gif" width="20px"> I am
+        <b><a target="_blank" href="https://samarthkhatri.me/">Samarth Khatri</a></b>
         </samp>
 </h3>
 <br>
@@ -93,8 +93,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Samarth-Khatri&show_icons=true&theme=chartreuse-dark" /></p>
 </a>
-  
-### :link: &nbsp;Connect with me <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" height="33px" />
+
+<h3 align="center">
+    <samp>&gt; Connect with me <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" height="23px" /></b>
+        </samp>
+</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/samarthkhatri/"><img src="https://img.shields.io/badge/-Samarth%20Khatri-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -117,7 +120,7 @@
 <!-- Snake -->
 
 <h3 align="center">
-  <samp><b>「 Watch this 🐍 eating up my contributions 」</b> </samp>
+  <samp><b>{ Watch this 🐍 eating up my contributions }</b> </samp>
 </h3>
 <p align="center"><img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/output/github-contribution-grid-snake.svg" /></p>
 
