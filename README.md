@@ -5,8 +5,6 @@
         </samp>
 </h3>
 
-
-
 <h3 align="center">
         <!-- Aout  -->
         <samp><b>
@@ -81,18 +79,23 @@
         
 </h3>
 
-
-<!-- Details Section-->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-  <br>
 <!-- GitHub Stats --> 
+<!-- <br> -->
+<h3 align="center">
+    <samp>&gt; GitHub Statistics</b>
+        </samp>
+</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Samarth-Khatri&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-Khatri&layout=compact&theme=gotham" alt="languages" height="165">
+</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth-Khatri&layout=compact&theme=gotham" alt="sxmeer-ahmed" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-Khatri&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Samarth-Khatri&show_icons=true&theme=chartreuse-dark" /></p>
-</a>
+<!-- <table>
+        <tr>
+                <td> <img src="https://github-readme-stats.vercel.app/api?username=Samarth-Khatri&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;</td>
+                <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-Khatri&layout=compact&theme=gotham" alt="languages" height="165"> </td>
+        </tr>
+</table> -->
 
 <h3 align="center">
     <samp>&gt; Connect with me <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" height="23px" /></b>
@@ -105,17 +108,7 @@
 <a href="https://www.instagram.com/khatri.samarth/"><img src="https://img.shields.io/badge/-khatri.samarth-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/Samarth7861"><img src="https://img.shields.io/badge/-Samarth7861-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
-</details>
   
-
-<!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding👨‍💻!"
-    </p>
-</samp>
 
 <!-- Snake -->
 
@@ -133,3 +126,13 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/Samarth-Khatri/count.svg" />  
 </p>
+
+<!-- Footer -->
+<!-- <samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
+ -->
