@@ -4,10 +4,10 @@
         <b><a target="_blank" href="https://samarthkhatri.me/">Samarth Khatri</a></b>
         </samp>
 </h3>
-<br>
 
 
-<p align="center">
+
+<h3 align="center">
         <!-- Aout  -->
         <samp><b>
                 「 Web Development Enthusiast and a Neophyte in Machine Learning 」
@@ -79,7 +79,7 @@
                         src="https://img.shields.io/badge/mongodb-%23F05033.svg?style=flat-square&logo=mongodb&logoColor=white&color=success">
         </a>
         
-</p>
+</h3>
 
 
 <!-- Details Section-->
