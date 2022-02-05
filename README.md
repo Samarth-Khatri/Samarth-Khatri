@@ -1,9 +1,9 @@
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://samarthkhatri.me/">Samarth Khatri</a></b>
         </samp>
-</h3>
+</h2>
 <br>
 
 
