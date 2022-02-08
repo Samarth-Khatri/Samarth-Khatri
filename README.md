@@ -16,64 +16,64 @@
         </samp>
         <!-- Programming Languages -->
         <!-- HTML -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="HTML"
+        <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         </a>
         <!-- CSS  -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="CSS"
+        <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img alt="CSS"
                         src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
         </a>
         <!-- JavaScript -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="JavaScript"
+        <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
         <!-- Java -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://www.java.com/en/" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
         </a>
         <!-- C++ -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="C++"
+        <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img alt="C++"
                         src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
         </a>
         <!-- Python -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="Python"
+        <a href="https://www.python.org/" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         </a>
         <!-- Node.js -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="C++"
+        <a href="https://nodejs.org/en/" target="_blank"><img alt="C++"
                         src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white">
         </a>
         <!-- Express.js -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://expressjs.com/" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/Express.js-404D59?style=flat-square">
         </a>
          <!-- Bootstrap -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://getbootstrap.com/" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
         </a>
         <br>
         <!-- JQuery -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://jquery.com/" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
         </a>
         <!-- Gcloud -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://cloud.google.com/" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flate-square&logo=google-cloud&logoColor=white">
         </a>
         <!-- Heroku -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://www.heroku.com/" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
         </a>
         <!-- Git -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://git-scm.com/" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white">
         </a>
         <!-- MySQL -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://www.mysql.com/" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
         </a>
         <!-- MongoDB -->
-        <a href="https://github.com/Samarth-Khatri?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://www.mongodb.com/" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/mongodb-%23F05033.svg?style=flat-square&logo=mongodb&logoColor=white&color=success">
         </a>
         
