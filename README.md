@@ -128,11 +128,11 @@
 </p>
 
 <!-- Footer -->
-<samp>
+<!-- <samp>
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
         "Happy Coding👨‍💻!"
     </p>
-</samp>
+</samp> -->
  
