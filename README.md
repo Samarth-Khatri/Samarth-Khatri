@@ -8,7 +8,7 @@
 <h3 align="center">
         <!-- Aout  -->
         <samp><b>
-                「 Web Development Enthusiast and a Neophyte in Machine Learning 」
+                「 Web Development Enthusiast 」
                 <br>
                 「 I am a MERN stack developer and a passionate video editor from India 」</b>
                 <br>
