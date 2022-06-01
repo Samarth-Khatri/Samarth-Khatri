@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There! </a><img src="https://github.com/Samarth-Khatri/Samarth-Khatri/blob/main/Hi.gif" width="20px"> I am
+        <samp>&gt; Hey There!👋 I am
         <b><a target="_blank" href="https://samarthkhatri.me/">Samarth Khatri</a></b>
         </samp>
 </h3>
