@@ -79,6 +79,19 @@
         
 </h3>
 
+<h3 align="center">
+    <samp>&gt; Connect with me <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" height="23px" /></b>
+        </samp>
+</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/samarthkhatri/"><img src="https://img.shields.io/badge/-Samarth%20Khatri-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:samarth.kahtri0000@gmail.com"><img src="https://img.shields.io/badge/-samarth.kahtri0000@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/khatri.samarth/"><img src="https://img.shields.io/badge/-khatri.samarth-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/Samarth7861"><img src="https://img.shields.io/badge/-Samarth7861-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+</p>
+
+
 <!-- GitHub Stats --> 
 <!-- <br> -->
 <h3 align="center">
@@ -97,18 +110,6 @@
         </tr>
 </table> -->
 
-<h3 align="center">
-    <samp>&gt; Connect with me <img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" height="23px" /></b>
-        </samp>
-</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/samarthkhatri/"><img src="https://img.shields.io/badge/-Samarth%20Khatri-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:samarth.kahtri0000@gmail.com"><img src="https://img.shields.io/badge/-samarth.kahtri0000@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/khatri.samarth/"><img src="https://img.shields.io/badge/-khatri.samarth-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/Samarth7861"><img src="https://img.shields.io/badge/-Samarth7861-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-</p>
-  
 
 <!-- Snake -->
 
