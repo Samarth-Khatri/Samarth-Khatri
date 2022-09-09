@@ -1,16 +1,16 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!👋 I am
-        <b><a target="_blank" href="https://samarthkhatri.me/">Samarth Khatri</a></b>
+        <b><a target="_blank" href="https://samarthkhatri.me/">Samarth Khatri </a><img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="30" /></b>
         </samp>
 </h3>
 
 <h3 align="center">
         <!-- Aout  -->
         <samp><b>
-                「 Web Development Enthusiast 」
+                「 I am a Final year Engineering student doing Data Structures and Algorithms in Java for Practice 」
                 <br>
-                「 I am a MERN stack developer and a passionate video editor from India 」</b>
+                「 Web Development and Video Editing for fun 」</b>
                 <br>
                 <br>
         </samp>
@@ -136,3 +136,4 @@
     </p>
 </samp> -->
  
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
