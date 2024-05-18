@@ -85,10 +85,10 @@
 </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/samarthkhatri/"><img src="https://img.shields.io/badge/-Samarth%20Khatri-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:samarth.kahtri0000@gmail.com"><img src="https://img.shields.io/badge/-samarth.kahtri0000@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/khatri.samarth/"><img src="https://img.shields.io/badge/-khatri.samarth-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/Samarth7861"><img src="https://img.shields.io/badge/-Samarth7861-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samarthkhatri/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:samarth.kahtri0000@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/sam._.wisee/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://x.com/khatrisamxD"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
 
 
@@ -135,6 +135,6 @@
         <br>
         "Happy Coding👨‍💻!"
     </p>
-</samp> -->
+</samp> 
  
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%"> -->
